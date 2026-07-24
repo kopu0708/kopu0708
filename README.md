@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm kopu0708 👋
 
-<!--
-**kopu0708/kopu0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+게임 클라이언트 개발자를 목표로 공부하고 있습니다. 유니티와 C#을 중심으로, 게임을 직접 만들어가며 배우는 중입니다.
 
-Here are some ideas to get you started:
+## 🎯 목표
+- Unity 기반 게임 클라이언트 개발자
+- 문법을 외우기보다 **왜 이렇게 동작하는지** 이해하고 넘어가는 것을 중요하게 생각합니다
+- 게임 개발 맥락(인벤토리, 몬스터 이벤트, 타일맵 등)에 연결해서 개념을 익히는 편입니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 지금 하고 있는 것
+- "이것이 C#이다" 완주 후, 책을 따라 Unity로 첫 게임 프로젝트 제작 중
+- Do it! 코딩테스트(파이썬 교재)를 C#으로 풀며 알고리즘 공부 병행
+
+## 📚 학습 기록
+| 레포 | 내용 |
+|------|------|
+| [C# 문법 학습 노트](여기에_실제_링크) | 클래스부터 람다식까지, "이것이 C#이다" (7장 부터  |
+| [Algorithm](여기에_실제_링크) | 백준 문제를 C#으로 푸는 알고리즘 스터디 (진행 중)|
+| [Unity 게임 프로젝트](여기에_실제_링크) | 책을 따라 만드는 첫 Unity 게임 (진행 중) |
+
+## 💬 관심사
+`C#` · `Unity` · `게임 클라이언트` · `자료구조` · `알고리즘`
+
+---
+*공익 근무 중 틈틈이 공부하며 기록을 남기고 있습니다.*
