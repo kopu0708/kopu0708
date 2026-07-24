@@ -15,7 +15,7 @@
 | 레포 | 내용 |
 |------|------|
 | [C# 문법 학습 노트](https://github.com/kopu0708/C-charp) | 클래스부터 람다식까지, "이것이 C#이다"  |
-| [Algorithm](여기에_실제_링크) | 백준 문제를 C#으로 푸는 알고리즘 스터디 (https://github.com/kopu0708/Algorithm)|
+| [Algorithm](https://github.com/kopu0708/Algorithm) | 백준 문제를 C#으로 푸는 알고리즘 스터디 (진행중)|
 | [Unity 게임 프로젝트](여기에_실제_링크) | 책을 따라 만드는 첫 Unity 게임 (진행 중) |
 
 ## 💬 관심사
