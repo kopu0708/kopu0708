@@ -22,9 +22,10 @@
 ## 🗂️ 이전에 했던 것들
 | 레포 | 내용 |
 |------|------|
-| [VHDL 프로젝트](여기에_실제_링크) | 학교 과제 — 하드웨어 기술 언어(VHDL) 실습 |
-| [Unity 프로토타입](여기에_실제_링크) | 초기에 만들다 만 유니티 게임 프로젝트 몇 개 |
-| [Flutter 프로젝트](여기에_실제_링크) | Flutter로 만들어본 앱 |
+| [VHDL 프로젝트](https://github.com/kopu0708/VHDL) | 학교 과제 — 하드웨어 기술 언어(VHDL) 실습 |
+| [Unity 프로토타입](https://github.com/kopu0708/Push-Push) | 초기에 만들다 만 유니티 게임 프로젝트 |
+| [Unity 프로토타입](https://github.com/kopu0708/vampirelike) | 초기에 만들다 만 유니티 게임 프로젝트 |
+| [Flutter 프로젝트](https://github.com/kopu0708/Clone_instar) | Flutter로 만들어본 앱, 코딩 애플 강의를 보고 학습했었던 기록 |
 
 ## 💬 관심사
 `C#` · `Unity` · `게임 클라이언트` · `자료구조` · `알고리즘`
